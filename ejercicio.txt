@@ -1,0 +1,2 @@
+Crea una pagina web simple  con navegación y contenido, el tema es tu serie o pelicula favorita.
+tienes que hacer 5 commits, mostrar el log y moverte a un commit anterior y regresar sin alterar el tiempo.
